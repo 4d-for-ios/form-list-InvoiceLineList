@@ -1,4 +1,4 @@
-<p align="center"><img src="https://developer.4d.com/4d-for-ios/docs/assets/en/templates/Invoice-Line-List-List-form.gif" alt="Invoice Line List
+<p align="center"><img src="https://github.com/4d-for-ios/4d-for-ios-form-list-InvoiceLineList/blob/master/Invoice-Line-List-List-form.gif" alt="Invoice Line List
 " height="auto" width="300"></p>
 
 ## Invoice Line List
